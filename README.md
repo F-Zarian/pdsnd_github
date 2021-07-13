@@ -4,13 +4,17 @@
 Jul 12, 2021.
 
 ### Project Title
-Replace the Project Title
+Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+In this project, I will create a GitHub repository and my local repository. I will work on a repo for my BikeShare project which I have completed before, will be making multiple branches, making edits to files on those branches (e.g., a readme file and my Python code), and then I will commit the changes to my remote repository.
 
 ### Files used
-Include the files used
+Three city dataset files were used to explore the bikeshare data:
+• chicago.csv
+• new_york_city.csv
+• washington.csv
+• [Udacity GitHub Repo](https://github.com/F-Zarian/pdsnd_github)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
