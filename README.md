@@ -17,4 +17,4 @@ Three city dataset files were used to explore the bikeshare data:
 • [Udacity GitHub Repo](https://github.com/F-Zarian/pdsnd_github)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[GitHub Project repository](https://github.com/udacity/pdsnd_github)
