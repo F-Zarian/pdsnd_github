@@ -7,7 +7,7 @@ Jul 12, 2021.
 Post Your Work on GitHub
 
 ### Description
-In this project, I will create a GitHub repository and my local repository. I will work on a repo for my BikeShare project which I have completed before, will be making multiple branches, making edits to files on those branches (e.g., a readme file and my Python code), and then I will commit the changes to my remote repository.
+In this project, I will create a GitHub repository and my local repository. I will work on a repo for my BikeShare project which I have completed as part of the Udacity Programming for Data Science Nanodegree , where I will be making multiple branches, making edits to files on those branches (e.g., a readme file and my Python code), and then I will commit the changes to my remote repository.
 
 ### Files used
 Three city dataset files were used to explore the bikeshare data:
