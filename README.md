@@ -10,7 +10,7 @@ Post Your Work on GitHub
 In this project, I will create a GitHub repository and my local repository. I will work on a repo for my BikeShare project which I have completed as part of the Udacity Programming for Data Science Nanodegree , where I will be making multiple branches, making edits to files on those branches (e.g., a readme file and my Python code), and then I will commit the changes to my remote repository.
 
 ### Files used
-Three city dataset files were used to explore the bikeshare data:
+Dataset files for 3 cities were used to explore the bikeshare data:
 • chicago.csv
 • new_york_city.csv
 • washington.csv
