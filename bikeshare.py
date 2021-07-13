@@ -104,7 +104,7 @@ def time_stats(df):
     print('Most Common Bikeshare Start Hour:', popular_hr)
 
     elapsed_time_secs = time.time() - start_time
-    print("\nThis took %s seconds." % round(elapsed_time_secs, 2))
+    print("\nThis took %s seconds." % round(elapsed_time_secs, 3))
     print('-'*40)
 
 
