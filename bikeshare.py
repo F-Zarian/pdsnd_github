@@ -1,4 +1,4 @@
-# provides various time related functions. Will be used to calculate process duration in several functions.
+# Provides various functions. Will be used to calculate process duration in several functions.
 import time
 import pandas as pd
 import numpy as np
