@@ -61,7 +61,6 @@ def load_data(city, month, day):
 
     # TO DO: Convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
-
     # TO DO: Extract month and day of the week from Start Time column to create new columns
     df['month'] = df['Start Time'].dt.month
     df['day_of_week'] = df['Start Time'].dt.weekday_name
@@ -227,8 +226,8 @@ def main():
         user_stats(df)
         display_raw_data(df)
         while True:
-            raw_data = input('\nWould you like to view first five
-                             rows of raw data? Enter yes or no.\n').lower()
+            raw_data = input(
+                '\nWould you like to view first five row of raw data? Enter yes or no.\n').lower()
             if raw_data != 'yes':
                 break
             display_raw_data(df)
