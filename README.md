@@ -5,7 +5,7 @@
 ### Project Title -  Post Your Work on GitHub
 
 ### Description
-
+In this project, I will create a GitHub repository as well as my local repository. Working on a repo for my bikeshare project (previous Udacity project), I will make multiple branches, make edits to files on those branches and then I will commit the changes to my remote repository on GitHub.
 
 ### Files used
 The files used are files from a previous bikeshare project which include:
