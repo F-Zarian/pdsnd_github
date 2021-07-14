@@ -3,14 +3,17 @@
 ### Jul 13, 2021
 Include the date you created this project and README file.
 
-### Udacity -  Post Your Work on GitHub
-Replace the Project Title
+### Project Title -  Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+
 
 ### Files used
-Include the files used
+The files used are files from a previous bikeshare project which include:
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Special thanks to Udacity instructors for providing this valuable learning experience and their support.
