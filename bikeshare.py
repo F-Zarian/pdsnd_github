@@ -103,7 +103,7 @@ def time_stats(df):
     print('Most Common Bikeshare Start Hour:', popular_hr)
 
     elapsed_time_secs = time.time() - start_time
-    print("\nThis took %s seconds." % round(elapsed_time_secs, 3))
+    print("\nThis took %s seconds." % round(elapsed_time_secs, 2))
     print('-'*40)
 
 
@@ -205,7 +205,7 @@ def display_raw_data(df):
     while True:
         raw_data = input(
             '\nWould you like to see the next five rows of the raw data? Enter yes or no.\n').lower()
-        pd.set_option('display.max_columns', 200)
+        pd.set_option('display.max_columns', 100)
         if raw_data != 'yes':
             return
         i += 5
